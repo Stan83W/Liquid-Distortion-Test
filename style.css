@@ -7,11 +7,12 @@ html, body {
 }
 
 .wrapper {
-      width: 566px;
+      width: 420px;
       height: 800px;
 }
 .cont {
       display: flex;
       align-items: center;
       justify-content: center;
+      cursor: none;
 }
